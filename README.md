@@ -9,3 +9,4 @@ Songs Mapped:
 - t+pazolite - Denaiarumyutora - shortened
 - Prompto x Sadfriendd x Xelishurt - SATISFACTION!
 - Dimitri Vegas & Like Mike vs. Vini Vici - Get In Trouble (So What)
+-  Waterflame - Glorious Morning 
