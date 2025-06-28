@@ -1,5 +1,3 @@
-These are OSU beatmaps made by Yours Truly :)
-
 Songs Mapped:
 
 - Yosuf - You're On My Mind Broe
