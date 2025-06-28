@@ -1,3 +1,6 @@
+Request New Songs to be mapped here:
+https://github.com/ProvidedTimmy/My-Osu-Songs/issues
+
 Songs Mapped:
 
 - Yosuf - You're On My Mind Broe
