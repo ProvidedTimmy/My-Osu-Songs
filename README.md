@@ -1,5 +1,4 @@
-Request New Songs to be mapped here:
-https://github.com/ProvidedTimmy/My-Osu-Songs/issues
+[Request New Songs to be mapped here](https://github.com/ProvidedTimmy/My-Osu-Songs/issues/new/choose)
 
 Songs Mapped:
 
